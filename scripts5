@@ -1,0 +1,13 @@
+nohup matlab -nodisplay -nosplash -r "transferBboxNoSiftFlow(8001:8100); exit;" > /home/gneelima/logs/labeltransfer/transefnoflann8001to8100.log &
+nohup matlab -nodisplay -nosplash -r "transferBboxNoSiftFlow(8101:8200); exit;" > /home/gneelima/logs/labeltransfer/transefnoflann8101to8200.log &
+nohup matlab -nodisplay -nosplash -r "transferBboxNoSiftFlow(8201:8300); exit;" > /home/gneelima/logs/labeltransfer/transefnoflann8201to8300.log &
+nohup matlab -nodisplay -nosplash -r "transferBboxNoSiftFlow(8301:8400); exit;" > /home/gneelima/logs/labeltransfer/transefnoflann8301to8400.log &
+nohup matlab -nodisplay -nosplash -r "transferBboxNoSiftFlow(8401:8500); exit;" > /home/gneelima/logs/labeltransfer/transefnoflann8401to8500.log &
+nohup matlab -nodisplay -nosplash -r "transferBboxNoSiftFlow(8501:8600); exit;" > /home/gneelima/logs/labeltransfer/transefnoflann8501to8600.log &
+nohup matlab -nodisplay -nosplash -r "transferBboxNoSiftFlow(8601:8700); exit;" > /home/gneelima/logs/labeltransfer/transefnoflann8601to8700.log &
+nohup matlab -nodisplay -nosplash -r "transferBboxNoSiftFlow(8701:8800); exit;" > /home/gneelima/logs/labeltransfer/transefnoflann8701to8800.log &
+nohup matlab -nodisplay -nosplash -r "transferBboxNoSiftFlow(8801:8900); exit;" > /home/gneelima/logs/labeltransfer/transefnoflann8801to8900.log &
+nohup matlab -nodisplay -nosplash -r "transferBboxNoSiftFlow(8901:9000); exit;" > /home/gneelima/logs/labeltransfer/transefnoflann8901to9000.log &
+nohup matlab -nodisplay -nosplash -r "transferBboxNoSiftFlow(9001:9100); exit;" > /home/gneelima/logs/labeltransfer/transefnoflann9001to9100.log &
+nohup matlab -nodisplay -nosplash -r "transferBboxNoSiftFlow(9101:9200); exit;" > /home/gneelima/logs/labeltransfer/transefnoflann9101to9200.log &
+nohup matlab -nodisplay -nosplash -r "transferBboxNoSiftFlow(9201:9240); exit;" > /home/gneelima/logs/labeltransfer/transefnoflann9201to9240.log &

@@ -1,0 +1,11 @@
+nohup matlab -nodisplay -nosplash -r "transferBboxNoSiftFlow(2001:2100,'DecafL2'); exit;" > /home/gneelima/logs/labeltransfer/transefernosiftflowdecaf2001to2100.log &
+nohup matlab -nodisplay -nosplash -r "transferBboxNoSiftFlow(2101:2200,'DecafL2'); exit;" > /home/gneelima/logs/labeltransfer/transefernosiftflowdecaf2101to2200.log &
+nohup matlab -nodisplay -nosplash -r "transferBboxNoSiftFlow(2201:2300,'DecafL2'); exit;" > /home/gneelima/logs/labeltransfer/transefernosiftflowdecaf2201to2300.log &
+nohup matlab -nodisplay -nosplash -r "transferBboxNoSiftFlow(2301:2400,'DecafL2'); exit;" > /home/gneelima/logs/labeltransfer/transefernosiftflowdecaf2301to2400.log &
+nohup matlab -nodisplay -nosplash -r "transferBboxNoSiftFlow(2401:2500,'DecafL2'); exit;" > /home/gneelima/logs/labeltransfer/transefernosiftflowdecaf2401to2500.log &
+nohup matlab -nodisplay -nosplash -r "transferBboxNoSiftFlow(2501:2600,'DecafL2'); exit;" > /home/gneelima/logs/labeltransfer/transefernosiftflowdecaf2501to2600.log &
+nohup matlab -nodisplay -nosplash -r "transferBboxNoSiftFlow(2601:2700,'DecafL2'); exit;" > /home/gneelima/logs/labeltransfer/transefernosiftflowdecaf2601to2700.log &
+nohup matlab -nodisplay -nosplash -r "transferBboxNoSiftFlow(2701:2800,'DecafL2'); exit;" > /home/gneelima/logs/labeltransfer/transefernosiftflowdecaf2701to2800.log &
+nohup matlab -nodisplay -nosplash -r "transferBboxNoSiftFlow(2801:2900,'DecafL2'); exit;" > /home/gneelima/logs/labeltransfer/transefernosiftflowdecaf2801to2900.log &
+nohup matlab -nodisplay -nosplash -r "transferBboxNoSiftFlow(2901:3000,'DecafL2'); exit;" > /home/gneelima/logs/labeltransfer/transefernosiftflowdecaf2901to3000.log &
+nohup matlab -nodisplay -nosplash -r "transferBboxNoSiftFlow(1901:2000,'DecafL2'); exit;" > /home/gneelima/logs/labeltransfer/transefernosiftflowdecaf1901to2000.log &
