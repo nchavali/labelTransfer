@@ -1,8 +1,8 @@
 function  transferBboxNoSiftFlow(range)
 config=createNonFlannConfig;
-numOfNearestNeigh=[5,10,15,20,30,40,50,60,70,80,90,100,500];
+%numOfNearestNeigh=[5,10,15,20,30,40,50,60,70,80,90,100,500];
 
-%numOfNearestNeigh=[1000];
+numOfNearestNeigh=[1];
 NNLoc=config.path.nearestNeighbourLoc;
 imLoc=config.path.imLoc;
 annoLoc=config.path.annotationLoc;

@@ -1,8 +1,8 @@
 function EvaluatingIOUNoSF()
 
 config=createNonFlannConfig;
-numOfNearestNeigh=[5,10,15,20,30,40,50,60,70,80,90,100,500,1000,2000];
-%numOfNearestNeigh=[2000];
+%numOfNearestNeigh=[5,10,15,20,30,40,50,60,70,80,90,100,500,1000,2000];
+numOfNearestNeigh=[1];
 fileDir=config.path.nearestNeighbourLoc;
 annoDir=config.path.annotationLoc;
 outputDir=config.path.resultsLoc;
